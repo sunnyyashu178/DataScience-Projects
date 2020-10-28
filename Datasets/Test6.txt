@@ -1,0 +1,19 @@
+Total time - 3 hours
+Total marks - 100
+Please use the data set for Medical schools. 
+
+Data Engineering - 50 marks ( Python or R )
+
+Q1) Which are the 5 Products with the highest number of variants? 
+Q2) Which are the 5 markets with the highest number of variants?  
+Q3) Create a matrix of the number of variants for the top 5 products in the top 5 countries. 
+Q4) What are the top claims in 1999? 
+Q5) By how much percent has the average price of Head & Shoulders changed between the first year of reporting and the last year of reporting? Ignore volume and other details for this calculation. 
+Q6) Create a data set with only 20% of the rows from the given data set. The new data set has to meet two conditions - the percentage of products for the Brazil market should be the same as the original & the yearly distribution of records should be the same as the original. 
+Q7) Which are the three most common ingredients in each year? 
+Q8) Is there any ingredient which has remained in the top 10 most common ingredients across all years?  
+
+Data Visualization ( Tableau or Power BI )
+Please create a Dashboard(s) using Tableau or PowerBI. Use the given original dataset for this purpose and not the one created as part of the Data Engineering part of the test.  
+
+On completion of 3 hours, please email the Python / R files and the PBIX / TWBX files to Rashmi. In case you are using Tableau Public, please publish the dashboard and share the link with Rashmi. 
